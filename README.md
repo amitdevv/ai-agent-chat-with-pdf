@@ -1,7 +1,8 @@
 # AI PDF Chat Agent
 
 An intelligent AI agent that understands and answers questions about any PDF document using Google Gemini AI and advanced retrieval techniques.
--for example i upload a resume and ask some question and you can see response below 
+
+- for example i upload a resume and ask some question and you can see response below 
 <img width="892" height="590" alt="image" src="https://github.com/user-attachments/assets/c02c1009-0f14-4d32-a37d-1f25e010a6c0" />
 
 
